@@ -1,0 +1,1 @@
+short lab for sum the GIT subject
